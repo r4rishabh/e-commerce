@@ -1,0 +1,6 @@
+cluster {
+
+   username = rds
+   password = 5OZcYTnSIYdx12ho
+
+}
